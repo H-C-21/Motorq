@@ -1,0 +1,11 @@
+.errorText {
+    color: #b40e0e;
+    position: relative;
+    min-width: 33rem;
+    /* position: fixed; */
+  }
+
+  .errorContainer {
+    /* position: fixed; */
+    min-width: 800px;
+  }
